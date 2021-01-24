@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="welcome_aboard">Welcome aboard!</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="priority_tasks">Start with your high priority tasks.</string>
+    <string name="Todo">Todo</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="add">Add new task</string>
 </resources>
